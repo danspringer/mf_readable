@@ -1,7 +1,7 @@
 Readable für REDAXO 5
 ========================
 
-Readable ist ein kleines jQuery-Plugin, mit dem Sie Ihre Absätze besser lesbar machen können. Es fügt das Styling zwischen dem 45. und 75. Zeichen jedes &lt;p&gt; -Tags auf Ihrer Seite ein.
+Readable ist ein kleines jQuery-Plugin, mit dem Sie Ihre Absätze besser lesbar machen können. Es fügt das Styling zwischen dem 45. und 75. Zeichen jedes &lt;p&gt; -Tags auf Ihrer Seite im Frontend ein, wenn Sie im Backend von REDAXO eingeloggt sind.
 
 Dadurch erhalten Sie eine visuelle Referenz, um anzuzeigen, ob Änderungen an der Schriftgröße oder Inhaltsbreite usw. erforderlich sind.
 
