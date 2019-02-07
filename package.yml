@@ -1,0 +1,17 @@
+# Alle hier gesetzten Werte können über $addon->getProperty($key) abgefragt werden
+
+package: mf_readable # Pflichtfeld
+version: '1.0' # Pflichtfeld
+author: Medienfeuer, Daniel Springer
+supportpage: https://github.com/danspringer/mf_readable
+
+page:
+    title: 'Readable'
+    perm: mf_readable[]
+    icon: rex-icon fa-book
+    subpages:
+        help: { title: 'Hilfe', perm: 'mf_readable[help]', icon: rex-icon fa-question-circle } # Seite mit separaten Rechten
+        credits: { title: 'Credits', perm: 'mf_readable[credits]', icon: rex-icon fa-copyright } # Seite mit separaten Rechten
+
+requires:
+    redaxo: '>=5.0' # benötigt mindestens REDAXO 5.0
