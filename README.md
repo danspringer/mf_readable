@@ -7,7 +7,7 @@ Dadurch erhalten Sie eine visuelle Referenz, um anzuzeigen, ob Änderungen an de
 
 Lesen Sie, warum die 45-75-Regel wichtig ist, und sehen Sie sich die Demo hier an. https://readable.now.sh/
 
-![Readable.js für REDAXO 5](https://raw.githubusercontent.com/danspringer/mf_readable/refs/heads/assets/assets/readable.gif "Readable Redaxo 5")
+![Readable.js für REDAXO 5](https://i.imgur.com/wPXprRn.gif "Readable Redaxo 5")
 
 
 Credits
